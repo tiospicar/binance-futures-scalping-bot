@@ -1,4 +1,4 @@
-# binance-crypto-scalping-bot
+# binance-futures-scalping-bot
 
 Crypto trading bot using SMA and RSI indicators. It connects to the binance via API keys and tracks live data and decides when to place and close orders.
 
